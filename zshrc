@@ -8,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="crunch"
+ZSH_THEME="jonathan"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -103,7 +103,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 eval "$(rbenv init - zsh)"
 eval "$(fnm env)"
 ssh-add --apple-load-keychain
-ZSH_THEME="nanotech"
 plugins=(git)
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/Users/jonaek/Documents/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/jonaek/Documents/google-cloud-sdk/path.zsh.inc'; fi
