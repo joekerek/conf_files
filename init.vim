@@ -7,6 +7,7 @@
 :set mouse=a
 :set expandtab
 :set filetype
+:tnoremap <Esc> <C-\><C-n>
 
 :call plug#begin()
 Plug 'f-person/git-blame.nvim'
