@@ -100,7 +100,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval "$(/opt/homebrew/bin/brew shellenv)"
-eval "$(rbenv init - zsh)"
 eval "$(fnm env)"
 ssh-add --apple-load-keychain
 plugins=(git)
