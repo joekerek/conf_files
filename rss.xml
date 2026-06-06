@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Newsboat - Exported Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://www.svt.se/nyheter/rss.xml" htmlUrl="https://www.svt.se/" title="SVT Nyheter" text="SVT Nyheter"/>
+    <outline type="rss" xmlUrl="https://api.sr.se/api/rss/program/83" htmlUrl="https://www.sverigesradio.se/nyheter" title="Sveriges Radio Ekot" text="Sveriges Radio Ekot"/>
+    <outline type="rss" xmlUrl="https://omni.se/rss" htmlUrl="" title="Omni" text="Omni"/>
+    <outline type="rss" xmlUrl="https://www.dn.se/rss/" htmlUrl="https://www.dn.se/" title="Dagens Nyheter" text="Dagens Nyheter"/>
+    <outline type="rss" xmlUrl="https://www.svd.se/?service=rss" htmlUrl="https://www.svd.se/" title="Svenska Dagbladet" text="Svenska Dagbladet"/>
+    <outline type="rss" xmlUrl="https://data.riksdagen.se/dokumentlista/?sort=datum&amp;sortorder=desc&amp;utformat=rss" htmlUrl="https://www.riksdagen.se/" title="Riksdagen" text="Riksdagen"/>
+    <outline type="rss" xmlUrl="https://www.regeringen.se/pressmeddelanden/rss/" htmlUrl="" title="Regeringen" text="Regeringen"/>
+    <outline type="rss" xmlUrl="https://www.politico.eu/rss/" htmlUrl="https://www.politico.eu/" title="Politico Europe" text="Politico Europe"/>
+    <outline type="rss" xmlUrl="https://www.euronews.com/rss?level=theme&amp;name=europe" htmlUrl="" title="Euronews" text="Euronews"/>
+    <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/europe/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world/europe" title="BBC Europe" text="BBC Europe"/>
+    <outline type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/" title="Hacker News" text="Hacker News"/>
+    <outline type="rss" xmlUrl="https://github.com/trending.atom" htmlUrl="" title="GitHub Trending" text="GitHub Trending"/>
+    <outline type="rss" xmlUrl="https://javascriptweekly.com/rss/" htmlUrl="https://javascriptweekly.com/" title="JavaScript Weekly" text="JavaScript Weekly"/>
+    <outline type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml" htmlUrl="https://nodejs.org/en" title="Node.js Blog" text="Node.js Blog"/>
+    <outline type="rss" xmlUrl="https://v8.dev/blog.atom" htmlUrl="https://v8.dev/blog.atom" title="V8 Blog" text="V8 Blog"/>
+    <outline type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/" title="AWS Blog" text="AWS Blog"/>
+    <outline type="rss" xmlUrl="https://azure.microsoft.com/en-us/updates/feed/" htmlUrl="" title="Azure Updates" text="Azure Updates"/>
+    <outline type="rss" xmlUrl="https://cloudblog.withgoogle.com/rss/" htmlUrl="https://cloud.google.com/blog/" title="Google Cloud Blog" text="Google Cloud Blog"/>
+    <outline type="rss" xmlUrl="https://openai.com/blog/rss.xml" htmlUrl="https://openai.com/news" title="OpenAI Blog" text="OpenAI Blog"/>
+    <outline type="rss" xmlUrl="https://www.anthropic.com/index/rss.xml" htmlUrl="" title="Anthropic" text="Anthropic"/>
+    <outline type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" title="Hugging Face" text="Hugging Face"/>
+    <outline type="rss" xmlUrl="https://owasp.org/www-project-news/rss.xml" htmlUrl="" title="OWASP" text="OWASP"/>
+    <outline type="rss" xmlUrl="https://www.cisa.gov/uscert/ncas/current-activity.xml" htmlUrl="https://www.cisa.gov/" title="CISA" text="CISA"/>
+    <outline type="rss" xmlUrl="https://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/" title="Apple Developer" text="Apple Developer"/>
+    <outline type="rss" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" htmlUrl="https://android-developers.googleblog.com/" title="Android Developers" text="Android Developers"/>
+    <outline type="rss" xmlUrl="https://start.stockholm/rss/rss.xml" htmlUrl="" title="Stockholm" text="Stockholm"/>
+    <outline type="rss" xmlUrl="https://goteborg.se/rss" htmlUrl="" title="G&#xF6;teborg" text="G&#xF6;teborg"/>
+    <outline type="rss" xmlUrl="https://malmo.se/rss" htmlUrl="" title="Malm&#xF6;" text="Malm&#xF6;"/>
+    <outline type="rss" xmlUrl="https://nassjo.se/rss" htmlUrl="" title="N&#xE4;ssj&#xF6;" text="N&#xE4;ssj&#xF6;"/>
+    <outline type="rss" xmlUrl="https://www.norrtalje.se/rss/" htmlUrl="" title="Norrt&#xE4;lje" text="Norrt&#xE4;lje"/>
+    <outline type="rss" xmlUrl="https://norrkoping.se/rss" htmlUrl="" title="Norrk&#xF6;ping" text="Norrk&#xF6;ping"/>
+  </body>
+</opml>
