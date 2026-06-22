@@ -29,6 +29,7 @@ set ignorecase
 set smartcase
 set incsearch
 set hlsearch
+set re=2
 nnoremap <CR> :noh<CR><CR>:<backspace>
 tnoremap <Esc> <C-\><C-n>
 so ~/.vim/plugins.vim
